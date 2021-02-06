@@ -15,8 +15,8 @@ It is a software which you can use it to manage your Git repositories locally on
 
 # Installation
 To start working with GitHub, perform the following actions:
-1.	Create your account on GitHub: https://github.com/ and verify your e-mail address.
-2.	Install GitHub Desktop Client on your computer:  https://desktop.github.com/.
+1. Create your account on GitHub: https://github.com/ and verify your e-mail address.
+2. Install GitHub Desktop Client on your computer:  https://desktop.github.com/.
 
 
 # Authentication
@@ -31,7 +31,7 @@ Further information you can find here: https://docs.github.com/en/github/authent
 
 It is recommended to use the shortest path, for example C: Git, as the repository is to be created inside the folder you selected for your local path. 
 
-4.	Select:
+4. Select:
 
 * **Initialize this repository with a README**.
 * **None** in the **Git Ignore** and **License** menu.
