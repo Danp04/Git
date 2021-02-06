@@ -1,6 +1,6 @@
 Markdown_basics
 # Markdown basic functions
-Here you can find basic features of Markdown formatting to produce a text . More information is included in the links below the table.
+Below you can find basic features of Markdown to produce your content. For more information use the links below the table.
 ## Elements
 | Syntax | Description |
 | --| ----------- |
